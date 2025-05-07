@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "無題のファイル.md",
+            "file": "雑記/操作確認.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "無題のファイル.md",
+            "file": "雑記/操作確認.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "無題のファイル.md",
+            "file": "雑記/操作確認.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,7 +156,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +168,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "c9783d69986edaaf",
+  "active": "bd38a2046ac875ac",
   "lastOpenFiles": [
     "確認手順.md",
     "雑記/Obsidian日本語ヘルプメモ.md",
