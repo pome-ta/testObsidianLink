@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雑記/Obsidian日本語ヘルプメモ.md",
+                "file": "雑記/操作確認.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Obsidian日本語ヘルプメモ"
+              "title": "操作確認"
             }
           }
         ],
@@ -170,9 +170,9 @@
   },
   "active": "c9783d69986edaaf",
   "lastOpenFiles": [
-    "雑記/操作確認.md",
-    "雑記/Obsidian日本語ヘルプメモ.md",
     "確認手順.md",
+    "雑記/Obsidian日本語ヘルプメモ.md",
+    "雑記/操作確認.md",
     "雑記"
   ]
 }
