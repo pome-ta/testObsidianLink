@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "操作確認"
             }
+          },
+          {
+            "id": "c9783d69986edaaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "雑記/Obsidian日本語ヘルプメモ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian日本語ヘルプメモ"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +168,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "8c4f7911dd003e18",
+  "active": "c9783d69986edaaf",
   "lastOpenFiles": [
-    "確認手順.md",
     "雑記/操作確認.md",
+    "雑記/Obsidian日本語ヘルプメモ.md",
+    "確認手順.md",
     "雑記"
   ]
 }
