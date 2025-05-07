@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "確認手順.md",
+                "file": "雑記/操作確認.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "確認手順"
+              "title": "操作確認"
             }
           }
         ]
@@ -153,8 +153,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "d867fe5a000dde93",
+  "active": "8c4f7911dd003e18",
   "lastOpenFiles": [
-    "確認手順.md"
+    "確認手順.md",
+    "雑記/操作確認.md",
+    "雑記"
   ]
 }
