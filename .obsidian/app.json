@@ -17,5 +17,8 @@
     "editor:swap-line-up",
     "editor:swap-line-down",
     "editor:configure-toolbar"
-  ]
+  ],
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "useTab": false
 }
