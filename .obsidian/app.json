@@ -4,5 +4,18 @@
   "tabSize": 2,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "mobileToolbarCommands": [
+    "editor:move-caret-left",
+    "editor:move-caret-right",
+    "editor:move-caret-up",
+    "editor:move-caret-down",
+    "editor:undo",
+    "editor:redo",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:configure-toolbar"
+  ]
 }
