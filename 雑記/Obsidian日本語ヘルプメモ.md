@@ -24,3 +24,17 @@
     - [埋め込み](https://publish.obsidian.md/help-ja/%E3%82%AC%E3%82%A4%E3%83%89/%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%99%E3%82%8B#%E5%9F%8B%E3%82%81%E8%BE%BC%E3%81%BF)
 - [ハイライト](https://publish.obsidian.md/help-ja/%E3%82%AC%E3%82%A4%E3%83%89/%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%99%E3%82%8B#%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88) は、独自よな？
 - [脚注](https://publish.obsidian.md/help-ja/%E3%82%AC%E3%82%A4%E3%83%89/%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%99%E3%82%8B#%E8%84%9A%E6%B3%A8) は使うかも
+- ファイルを埋め込む
+  - iframe で遊べたりするかな？
+- ホットキー
+  - pc 操作視点で今後考える
+- 複数ファイル
+  - pc
+- プラグイン
+  - コアプラグイン
+    - [Zettelkastenプレフィクサー - Obsidian 日本語ヘルプ - Obsidian Publish](https://publish.obsidian.md/help-ja/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/Zettelkasten%E3%83%97%E3%83%AC%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC)
+      - これで、日付設定できそう
+    - [テンプレート - Obsidian 日本語ヘルプ - Obsidian Publish](https://publish.obsidian.md/help-ja/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
+      - 日付はこれでやる
+    - [パブリッシュ - Obsidian 日本語ヘルプ - Obsidian Publish](https://publish.obsidian.md/help-ja/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5)
+      - これは有料

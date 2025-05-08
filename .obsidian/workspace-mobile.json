@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雑記/操作確認.md",
+                "file": "雑記/Obsidian日本語ヘルプメモ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "操作確認"
+              "title": "Obsidian日本語ヘルプメモ"
             }
           }
         ],
@@ -168,11 +168,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "bd38a2046ac875ac",
+  "active": "c9783d69986edaaf",
   "lastOpenFiles": [
+    "雑記/操作確認.md",
     "確認手順.md",
     "雑記/Obsidian日本語ヘルプメモ.md",
-    "雑記/操作確認.md",
     "雑記"
   ]
 }
