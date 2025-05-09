@@ -160,9 +160,9 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "雑記/操作確認.md",
-            "followCursor": false,
-            "showSearch": false,
+            "file": "雑記/カスタマイズのメモ.md",
+            "followCursor": true,
+            "showSearch": true,
             "searchQuery": ""
           },
           "icon": "lucide-list",
@@ -179,14 +179,18 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false
     }
   },
-  "active": "37b638ef37f09132",
+  "active": "fb74ad4bf0cb94cb",
   "lastOpenFiles": [
-    "雑記/操作確認.md",
     "雑記/Obsidian日本語ヘルプメモ.md",
+    "inbox/note2505091228.md",
     "雑記/カスタマイズのメモ.md",
+    "2505091225.md",
+    "inbox",
+    "雑記/操作確認.md",
     "確認手順.md",
     "雑記"
   ]

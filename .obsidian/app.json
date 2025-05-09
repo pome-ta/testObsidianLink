@@ -16,7 +16,14 @@
     "editor:unindent-list",
     "editor:swap-line-up",
     "editor:swap-line-down",
-    "editor:configure-toolbar"
+    "editor:toggle-bullet-list",
+    "editor:insert-codeblock",
+    "editor:insert-callout",
+    "editor:paste",
+    "editor:copy",
+    "app:open-settings",
+    "editor:configure-toolbar",
+    "outline:open"
   ],
   "readableLineLength": false,
   "propertiesInDocument": "visible",
