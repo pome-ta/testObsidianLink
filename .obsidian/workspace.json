@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "確認手順.md",
+                "file": "inbox/note2505091237.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "確認手順"
+              "title": "note2505091237"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雑記/操作確認.md",
+                "file": "inbox/note2505091237.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "操作確認へのバックリンク"
+              "title": "note2505091237へのバックリンク"
             }
           },
           {
@@ -142,24 +142,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "雑記/操作確認.md",
+                "file": "inbox/note2505091237.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "操作確認のアウトライン"
+              "title": "note2505091237のアウトライン"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:新規ユニークノートの作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -170,7 +171,10 @@
   },
   "active": "0bd377a62db262e7",
   "lastOpenFiles": [
+    "inbox/note2505091228.md",
+    "雑記/Obsidian日本語ヘルプメモ.md",
+    "雑記/カスタマイズのメモ.md",
     "雑記/操作確認.md",
-    "雑記/Obsidian日本語ヘルプメモ.md"
+    "確認手順.md"
   ]
 }
