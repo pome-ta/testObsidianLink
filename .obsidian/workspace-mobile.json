@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雑記/カスタマイズのメモ.md",
+                "file": "inbox/note2505091237.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "カスタマイズのメモ"
+              "title": "note2505091237"
             }
           }
         ],
@@ -183,11 +183,12 @@
       "zk-prefixer:新規ユニークノートの作成": false
     }
   },
-  "active": "fb74ad4bf0cb94cb",
+  "active": "37b638ef37f09132",
   "lastOpenFiles": [
+    "雑記/カスタマイズのメモ.md",
+    "inbox/note2505091237.md",
     "雑記/Obsidian日本語ヘルプメモ.md",
     "inbox/note2505091228.md",
-    "雑記/カスタマイズのメモ.md",
     "2505091225.md",
     "inbox",
     "雑記/操作確認.md",
