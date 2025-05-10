@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雑記/操作確認.md",
+                "file": "inbox/note2505091237.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "操作確認"
+              "title": "note2505091237"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "雑記/カスタマイズのメモ.md",
+            "file": "inbox/note2505091237.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -185,6 +185,8 @@
   },
   "active": "37b638ef37f09132",
   "lastOpenFiles": [
+    "雑記/操作確認.md",
+    "inbox/note2505100159.md",
     "雑記/カスタマイズのメモ.md",
     "inbox/note2505091237.md",
     "2025-05-10.md",
@@ -192,7 +194,6 @@
     "雑記/Obsidian日本語ヘルプメモ.md",
     "2505091225.md",
     "inbox",
-    "雑記/操作確認.md",
     "確認手順.md",
     "雑記"
   ]
