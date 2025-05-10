@@ -4,9 +4,9 @@
     "minor": 2,
     "patch": 7
   },
-  "disablePluginStyles": false,
+  "disablePluginStyles": true,
   "enabled": true,
-  "outlineListMarkers": false,
+  "outlineListMarkers": true,
   "showAllCodeblockWhitespace": false,
   "showAllWhitespace": false,
   "showBlockquoteMarkers": false,
