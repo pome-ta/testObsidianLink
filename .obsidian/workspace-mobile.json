@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/note2505091237.md",
+                "file": "inbox/note2505100430.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "note2505091237"
+              "title": "note2505100430"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "inbox/note2505091237.md",
+            "file": "inbox/note2505100430.md",
             "followCursor": true,
             "showSearch": true,
             "searchQuery": ""
@@ -183,14 +183,16 @@
       "zk-prefixer:新規ユニークノートの作成": false
     }
   },
-  "active": "37b638ef37f09132",
+  "active": "fb74ad4bf0cb94cb",
   "lastOpenFiles": [
+    "inbox/note2505091237.md",
+    "inbox/note2505100430.md",
+    "inbox/note2505091228.md",
+    "inbox/note2505100253.md",
     "雑記/操作確認.md",
     "inbox/note2505100159.md",
     "雑記/カスタマイズのメモ.md",
-    "inbox/note2505091237.md",
     "2025-05-10.md",
-    "inbox/note2505091228.md",
     "雑記/Obsidian日本語ヘルプメモ.md",
     "2505091225.md",
     "inbox",
